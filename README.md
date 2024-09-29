@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vijayakanth06
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning B.tech (AIML)
-- 💞️ I’m looking to collaborate on fulls stack development projects and 3d modeling.
+- 💞️ I’m looking to collaborate on full stack development projects and 3d modeling.
 - 📫 contact me through email "vikymahendiran123@gmail.com"
 - ⚡ Fun fact: ...
 
