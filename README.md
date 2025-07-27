@@ -3,7 +3,7 @@
 <h3 align="center">🚀 AI/ML Engineer | 💻 Full Stack Developer | 🧠 Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=100&color=58A6FF&center=true&vCenter=true&width=435&lines=Engineering+Student+%F0%9F%8E%93;Hackathon+Winner+%F0%9F%8F%86;MERN+Stack+Developer+%F0%9F%92%BB;LeetCode+500%2B+Solved+%F0%9F%92%A1;LLM+Enthusiast+%F0%9F%A7%A0;AI+Project+Builder+%F0%9F%A7%AC" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=100&color=58A6FF&center=true&vCenter=true&width=435&lines=Engineering+Student+%F0%9F%8E%93;Hackathon+Winner+%F0%9F%8F%86;MERN+Stack+Developer+%F0%9F%92%BB;LeetCode+100%2B+Solved+%F0%9F%92%A1;LLM+Enthusiast+%F0%9F%A7%A0;AI+Project+Builder+%F0%9F%A7%AC" alt="Typing Banner" />
 </p>
 
 ---
