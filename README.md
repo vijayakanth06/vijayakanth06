@@ -71,7 +71,7 @@
 
 ---
 
-# 🚀 Major Projects (All From Resume)
+# 🚀 All Projects 
 
 | Project | Duration | Tech Stack | Description |
 |--------|----------|-------------|-------------|
